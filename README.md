@@ -15,3 +15,5 @@ These are the 5th updates made locally before pul request
 these are the 4th changes made remotely
 
 weve made 7th update locally
+
+thanks for learning git.
