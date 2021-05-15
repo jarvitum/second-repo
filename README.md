@@ -16,4 +16,8 @@ these are the 4th changes made remotely
 
 weve made 7th update locally
 
+
 Bye Bye
+
+thanks for learning git.
+
