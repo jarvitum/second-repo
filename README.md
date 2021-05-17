@@ -25,3 +25,5 @@ thanks for learning git.
 ## Forked change
 
 We *thought* that was it, but we have this new **update**!
+
+Then what - **CONFLICTS!**
