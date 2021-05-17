@@ -26,4 +26,4 @@ thanks for learning git.
 
 We *thought* that was it, but we have this new **update**!
 
-Then what - **CONFLICTS!**
+Then what - **CONFLICTS!** 
